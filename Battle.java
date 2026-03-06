@@ -13,7 +13,7 @@ public class Battle {
         }
 
         if(player.hp > 0)
-            System.out.println("Player afadfdafa wins!");
+            System.out.println("Player wins!");
         else
             System.out.println("Enemy wins!");
 
